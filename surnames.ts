@@ -1,0 +1,1 @@
+export const surnames = ["Brown","White","Azarenko","Abramenko","LisayiDaniil"]
