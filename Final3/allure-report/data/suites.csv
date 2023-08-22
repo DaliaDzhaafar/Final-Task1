@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Aug 13 09:46:59 MSK 2023","Sun Aug 13 09:47:14 MSK 2023","15221","Mobile","","Check news website","",""," Test 5 - language dropdown",""
+"failed","Sun Aug 13 09:45:48 MSK 2023","Sun Aug 13 09:46:06 MSK 2023","17497","Mobile","","Check news website","",""," Test 1 - Check website title",""
+"passed","Sun Aug 13 09:46:06 MSK 2023","Sun Aug 13 09:46:25 MSK 2023","19129","Mobile","","Check news website","",""," Test 2 - Check itnews title",""
+"failed","Sun Aug 13 09:46:25 MSK 2023","Sun Aug 13 09:46:41 MSK 2023","15562","Mobile","","Check news website","",""," Test 3 - Check contacts Phone",""
+"failed","Sun Aug 13 09:46:42 MSK 2023","Sun Aug 13 09:46:58 MSK 2023","16299","Mobile","","Check news website","",""," Test 4 - Check Goolge Map",""

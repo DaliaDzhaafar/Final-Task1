@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --headed --reporter=allure-playwright",
+    "allure-reporter": "npx allure generate ./allure-results --clean",
+    "allure:open": "npx allure open ./allure-report"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2",
+    "allure-commandline": "^2.23.1",
+    "allure-playwright": "^2.5.0",
+    "log4js": "^6.9.1"
+  }
+}
